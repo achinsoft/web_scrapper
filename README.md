@@ -8,4 +8,4 @@ libs to be installed
 pip install beautifulsoup4
 pip install selenium
 pip install pandas
-
+pip install requests
